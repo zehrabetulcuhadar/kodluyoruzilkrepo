@@ -5,7 +5,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 ![githup](https://user-images.githubusercontent.com/93150712/185387908-eabbf4c7-4ce3-47b7-9baa-12dcf477439c.png)
 
 ## Patika Dev Linkim
-
+https://app.patika.dev/zehrabetulcuhadar
 
 ## Installation
 
